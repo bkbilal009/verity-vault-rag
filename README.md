@@ -82,7 +82,7 @@ I am passionate about building grounded AI solutions. Feel free to reach out or 
 
 * **🌐 Live Demo (Hugging Face):** https://huggingface.co/spaces/bkbilal09/VerityVault-AI
 * **👔 LinkedIn:** : https://www.linkedin.com/in/muhammad-bilal-dev/
-* **🐙 GitHub Repo:** : 
+* **🐙 GitHub Repo:** : https://github.com/bkbilal009/verity-vault-rag/tree/main
 
 ---
 *License: MIT. Developed for educational and research purposes in document intelligence.*
